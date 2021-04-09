@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_emoji_food_beverage_24"
+            android:title="Home" />
+
+
+        <item
+            android:id="@+id/nav_checkout"
+            android:icon="@drawable/ic_baseline_emoji_food_beverage_24"
+            android:title="Checkout" />
+
+    </group>
+
+    <item android:title="Menu"/>
+    <item
+        android:id="@+id/nav_Hamburger"
+        android:icon="@mipmap/ic_burger_clipart_foreground"
+
+
+
+        android:title="Burgers"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/nav_Tacos"
+        android:icon="@mipmap/ic_taco_clipart_foreground"
+        android:title="Tacos" />
+
+    <item
+        android:id="@+id/nav_HotDog"
+        android:icon="@mipmap/ic_hotdog_clipart_foreground"
+        android:title="Hotdogs" />
+
+    <item
+        android:id="@+id/nav_Salad"
+        android:icon="@mipmap/ic_salad_clipart_foreground"
+        android:title="Salads" />
+
+    <item
+        android:id="@+id/nav_Drinks"
+        android:icon="@mipmap/ic_drink_clipart_foreground"
+        android:title="Drinks" />
+    <item
+        android:id="@+id/recycler_drink"
+        android:icon="@mipmap/ic_drink_clipart_foreground"
+        android:title="Drinks 2" />
+
+
+</menu>
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995527222936",
+    "project_id": "bitmenu-595b0",
+    "storage_bucket": "bitmenu-595b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995527222936:android:1f349873760c1bc6f1d2ed",
+        "android_client_info": {
+          "package_name": "com.example.a8_bitmenu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995527222936-nvqqj3fr2qmejaekepqqovar6bb259v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChBfBH547mv4kxJeKlVgVgi9eoTnyMKOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995527222936-nvqqj3fr2qmejaekepqqovar6bb259v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
